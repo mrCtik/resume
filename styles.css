@@ -42,16 +42,16 @@ body {
     margin-bottom: 10px;
 }
 
-.bg-yellow {
-    background: #f5efd0;
+.bg-one {
+    background: #b89af1;
 }
 
-.bg-red {
-    background: #fcd6d6;
+.bg-two {
+    background: #86caf1;
 }
 
-.bg-green {
-    background: #c3f7d7;
+.bg-three {
+    background: #99f1ed;
 }
 
 .container {
@@ -107,7 +107,7 @@ a:visited {
 }
 
 .list li {
-    color: #86898f;
+    color: #333435;
     margin-bottom: 10px;
 }
 
@@ -121,7 +121,7 @@ a:visited {
 
 .table td:nth-child(2),
 .table td:nth-child(3) {
-    color: #86898f;
+    color: #111b2e;
 }
 
 .form h2 {
@@ -147,7 +147,7 @@ a:visited {
 .form-group label {
     display: block;
     font-size: 14px;
-    color: #86898f; 
+    color: #051615; 
 }
 
 
